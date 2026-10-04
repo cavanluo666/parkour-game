@@ -1,0 +1,11 @@
+{
+  "key": "parkour",
+  "name": "极速跑酷",
+  "icon": "🏃",
+  "description": "跳跃、滑铲闪避障碍，收集金币，跑出最远距离",
+  "author": "LCH",
+  "version": "1.0",
+  "has_server": true,
+  "min_players": 1,
+  "max_players": 20
+}
